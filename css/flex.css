@@ -1,0 +1,629 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+
+.modes {
+    position: fixed;
+    margin-top: 125px;
+    padding-left: 0px;
+}
+
+.modes li:first-of-type{
+    list-style: none;
+    background-color: #4f5177;
+    width: 117px;
+    height: 46px;
+}
+
+
+.modes li:last-of-type{
+    list-style: none;
+    background-color: #d4e5f8;
+    width: 117px;
+    height: 46px;
+}
+
+
+.modes li a:first-of-type{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+
+
+
+}
+
+.modes li a:last-of-type{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+}
+/*********** start STYLING OF NAV****************/
+nav li{
+    padding-left: 8px;
+}
+nav h2{
+color:#012970
+}
+.btn-primary {
+    background-color: #380aff;
+    border-color: #380aff;
+}
+/*********** END STYLING OF NAV****************/
+
+/*********** start STYLING OF SEC1 ****************/
+.sec1{
+    background-image: url(../images/bg.png);
+    /* width: 100%; */
+    height: 539px;
+    /* margin-top: 20px; */
+
+}
+
+.sec1_left{
+    padding-top: 250px;
+}
+
+.sec1_left h1{
+    color: #012970;
+}
+.sec1_left p{
+color: black;
+}
+.WV{
+    margin-left: 21px;
+
+}
+.WV span{
+    color: #353c48;
+    font-weight: 600;
+    font-size: 16px;
+
+}
+.WV span:hover{
+    color:blue;
+}
+.WV i{
+    font-size: 28px;
+    color: #4d4def;
+    margin-right: 5px;
+}
+.sec1_right {
+    width: 878px;
+    padding-top: 71px;
+    margin-right: 112px;
+
+}
+
+.sec1_right img{
+
+}
+/***********END STYLING OF SEC1  ****************/
+
+/*********** start STYLING OF SEC2 ****************/
+
+.sec2{
+
+}
+.sec2_left{
+    margin-top: 101px;
+}
+.card_cont{
+    padding-left: 45px;
+    width: 704px;
+    padding-top: 26px;
+    padding-bottom: 21px;
+    padding-right: 20px;
+    background-color: #b4c4e426;
+    height: 324px;
+}
+
+
+.sec2_left h2{
+    font-size: 22px;
+    color: #012970;
+    padding-bottom: 6px;
+
+}
+.sec2_left p:first-of-type{
+    color:blue;
+}
+.sec2_left p:last-of-type{
+    font-size: 16px;
+    color: #514c4c;
+    padding-bottom: 6px;
+}
+
+.sec2_left button{
+
+}
+.sec2_left button span:first-of-type{
+
+}
+
+.sec2_left button span:last-of-type {
+
+}
+.sec2_right{
+
+}
+.sec2_right img{
+    width: 701px;
+    margin-top: 45px;
+    padding-right: 73px;
+}
+
+
+
+
+
+/*********** END STYLING OF SEC2 ****************/
+
+
+/*********** START STYLING OF SEC3 ****************/
+
+.sec3{
+    padding-top: 158px;
+}
+ .p{
+
+     border-radius: 20px;
+     width: 148px;
+     align-items: center;
+     margin-left: 579px;
+     background-color: #9b9bf85e;
+     font-size: 14px;
+     padding: 7px 1px 7px 0px;
+     color: blue;
+     font-weight: 600;
+     text-align: center;
+}
+.sec3 h2{
+    text-align: center;
+    color: #012970;
+    padding-bottom: 47px;
+}
+.row > .col1{
+    margin-right: 28px;
+    width: 412px;
+    height: 388px;
+    padding-top: 53px;
+}
+.row > .col1 img{
+    width: 256px;
+    margin-left: 76px;
+    padding-bottom: 20px;
+}
+.row> .col1 h3{
+    font-size: 22px;
+    text-align: center;
+    padding-bottom: 15px;
+    color: #012970;
+}
+.row> .col1 p{
+    font-size: 15px;
+    text-align: center;
+}
+
+
+
+/*********** END STYLING OF SEC3 ****************/
+
+/*****************START STYLING OF SEC4****************************/
+.sec4{
+    padding-top: 160px;
+}
+.row> .col2 {
+
+    padding: 32px;
+    width: 23%;
+    margin-right: 26px;
+    height: 137px;
+    background-color: white;
+}
+.row> .col2 span:nth-of-type(1){
+    position: absolute;
+    font-size: 45px;
+}
+
+.row> .col2 span:nth-of-type(2) {
+    padding-left: 61px;
+    font-size: 34px;
+    color: #012970;
+    font-weight: 600;
+}
+
+.row> .col2 span:nth-of-type(3){
+    padding-left: 61px;
+    color: #4f4a4a;
+}
+.blu{
+    color:blue
+}
+.org{
+    color:orange;
+}
+.lime{
+    color:limegreen;
+}
+.pur{
+    color: #ed39af;
+}
+
+/*****************END STYLING OF SEC4*****************************/
+
+/****************START OF STYLING SEC5**************************/
+.sec5{
+    padding-top: 139px;
+}
+.sec5 h2{
+    text-align: center;
+    padding-bottom: 57px;
+    color: #012970;
+    font-weight: 500;
+
+}
+.sec5_cont{
+
+}
+.sec5_left{
+
+ }
+
+.sec5_left img{
+    width: 666px;
+}
+
+.sec5_right span:first-of-type{
+    border-radius: 3px;
+
+    margin-right: 10px;
+    height: 5px;
+    font-size: 22px;
+    background-color: #0000ff12;
+    color: blue;
+}
+
+.sec5_right span:last-of-type{
+    font-size: 17px;
+    font-weight: 600;
+    color: #012970;
+
+}
+
+.sec5_right {
+    padding-top: 81px;
+}
+
+.sec5_right .col3 {
+
+    width: 291px;
+    margin-left: 15px;
+    margin-bottom: 29px;
+    padding: 27px;
+    height: 81px;
+}
+
+/****************END OF STYLING SEC5**************************/
+
+
+/**************** Start OF STYLING SEC6**************************/
+.sec6{
+    padding-top: 33px;
+}
+.sec5_cont{
+
+}
+.sec6_left{
+    padding-top: 207px;
+}
+.sec6_left .col4{
+    margin-bottom: 28px;
+}
+
+.sec6_left span:first-of-type{
+    position: absolute;
+    font-size: 42px;
+    color: #5c5cde;
+}
+
+
+.sec6_left span:last-of-type{
+    font-size: 18px;
+    margin-left: 57px;
+    color: #012970;
+    font-weight: 600;
+}
+
+.sec6_left p{
+    margin-left: 60px;
+    font-size: 14px;
+    padding-top: 4px;
+    color: gray;
+
+}
+
+
+.sec6_right img{
+    width: 510px;
+    padding-top: 82px;
+}
+
+
+/****************END OF STYLING SEC6**************************/
+
+/****************START OF STYLING SEC7 **************************/
+.sec7{
+
+}
+
+.sec7 h5{
+
+}
+
+.sec7 p{
+
+}
+
+.sec7 h2{
+    text-align: center;
+    color: #012970;
+    /* font-weight: 500; */
+    padding-bottom: 48px;
+}
+
+.sec7 .col5{
+    height: 348px;
+    padding-top: 63px;
+    width: 410px;
+    margin-left: 30px;
+    border-radius: 4px;
+}
+
+.sec7 .col5 .h_icon{
+    font-size: 36px;
+    margin-left: 158px;
+}
+.sec7 .col5 h5{
+    text-align: center;
+    padding-top: 28px;
+}
+
+.sec7 .col5 p{
+    text-align: center;
+
+    font-size: 16px;
+
+}
+
+.sec7 .col5 a{
+    margin-left: 152px;
+}
+
+.bl{
+    background-color: #8ae8ff4d;
+
+    padding: 11px;
+    border-radius: 8px;
+    padding-right: 22px;
+    padding-left: 22px;
+    color:blue;
+}
+
+
+.or{
+    background-color: #ffa50045;
+    padding: 11px;
+    border-radius: 8px;
+    padding-right: 22px;
+    padding-left: 22px;
+    color: #ff4000;
+}
+
+.gr{
+    background-color: #3ac93036;
+    padding: 11px;
+    border-radius: 8px;
+    padding-right: 22px;
+    padding-left: 22px;
+    color: #64d79ed9;;
+}
+
+.red{
+    background-color: #c9303036;
+    padding: 11px;
+    border-radius: 8px;
+    padding-right: 22px;
+    padding-left: 22px;
+    color: #d60606;
+}
+
+
+.pr{
+    background-color: #ad30c926;
+    padding: 11px;
+    border-radius: 8px;
+    padding-right: 22px;
+    padding-left: 22px;
+    color: #d606c4;
+}
+
+.pi{
+    background-color: #ff00421a;
+    padding: 11px;
+    border-radius: 8px;
+    padding-right: 22px;
+    padding-left: 22px;
+    color: #ff0052cf;
+}
+
+.c1:hover {
+    background-color: #0bedff;
+    color:white;
+}
+
+.c2:hover {
+    background-color: #ff7f00;
+    color:white;
+
+}
+.c3:hover{
+    background-color: #0eb964;
+    color:white;
+}
+
+.c4:hover{
+    background-color: #c60202;
+    color:white;
+}
+
+
+.c5:hover{
+    background-color: #7324d4;
+    color:white;
+}
+
+.c6:hover{
+    background-color: #ff00a9;
+    color:white;
+}
+
+.h_icon:hover{
+    background-color: white;
+}
+/****************END OF STYLING SEC7 **************************/
+
+
+/****************START OF STYLING SEC8 **************************/
+.sec8{
+    padding-top: 143px;
+}
+.sec8 .col6{
+    text-align: center;
+    padding-top: 36px;
+    width: 310px;
+    margin-left: 20px;
+    height: 512px;
+}
+
+.sec8 h2{
+    text-align: center;
+    color: #012970;
+    padding-bottom: 26px;
+}
+.sec8 h3{
+    color: #012970;
+    font-size: 38px;
+    padding-bottom: 15px;
+    text-align: center;
+
+}
+.sec8 p:nth-of-type(2){
+    line-height: 2.5;
+    color: #494747;
+}
+
+
+.sec8 h3 span{
+    color: grey;
+    font-size: 18px;
+}
+
+.sec8 span i{
+    font-size: 45px;
+}
+
+
+.lthro{
+    text-decoration: line-through;
+    color:#80808070;
+}
+
+.gre{
+    color:#12a983;
+}
+.lightblu{
+    color:#009eff;
+}
+.sec8 .col6 button{
+    border-radius: 26px;
+    padding: 10px;
+    padding-right: 44px;
+    padding-left: 44px;
+    border-color: #008aff;
+    background-color: unset;
+    color: #0b90cb;
+}
+
+/****************END OF STYLING SEC8 **************************/
+
+/****************START OF STYLING SEC9 **************************/
+.sec9{
+    padding-top: 159px;
+}
+.sec9 .col7{
+
+}
+.sec9 .h2_1{
+    color: #012970;
+    text-align: center;
+    padding-bottom: 76px;
+}
+.col7 button{
+    font-size: 15px;
+}
+
+.col7 .par {
+    font-size: 15px;
+}
+
+/****************END OF STYLING SEC9 **************************/
+
+/****************START OF STYLING SEC10 **************************/
+.sec10{
+    padding-top: 162px;
+}
+.sec10 a{
+    text-decoration: none;
+    text-align: center;
+    margin-left: 24px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.sec10 h2{
+    text-align: center;
+    color: #012970;
+    padding-bottom: 55px;
+}
+
+.sec10 .col8{
+
+}
+
+.sec10 .col8 img{
+    width: 416px;
+    margin-bottom: 20px;
+}
+
+
+
+/****************END OF STYLING SEC10 **************************/
+
+/****************START OF STYLING SEC11 **************************/
+.sec11{
+
+}
+
+.sec11 .card1{
+
+}
+
+
+
+
+
+/****************END OF STYLING SEC11 **************************/
